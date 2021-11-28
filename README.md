@@ -57,6 +57,8 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.m
 Name: PHP Intelephense
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
 
-
 Name: Prettier - Code formatter
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+Name: Live Server
+Live Server Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
