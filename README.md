@@ -74,3 +74,5 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.
 Name: Live Server
 
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
